@@ -1,6 +1,6 @@
 # BTC-Pay Server
 
-## Install Dependencies
+## Installazione delle dipendenze
 
 To run the BTCPayServer you will need to install .NET Core SDK, NBXplorer and PostgreSQL.
 
@@ -169,7 +169,7 @@ sudo wget https://gist.githubusercontent.com/mariodian/07bb13da314e2a321784b380f
 
 Edit the file based on your environment.
 
-Enable the service, start it and check whether it's running correctly:
+Attiva il servizio e verifca che tutto sia funzionante
 
 ```bash
 sudo systemctl enable btcpayserver.service
