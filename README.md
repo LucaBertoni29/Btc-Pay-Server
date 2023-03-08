@@ -1,5 +1,7 @@
 # BTC-Pay Server
 
+Per installare il BTC Pay Server è necessario avere un nodo bitcoin a disposizione
+
 ## Installazione delle dipendenze
 
 Il BTCPayServer per essere installato utiluzza .NET Core SDK, NBXplorer e PostgreSQL.
